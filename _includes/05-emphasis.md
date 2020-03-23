@@ -6,7 +6,6 @@ Below is a _list_ of my **skills**:
 - Python
 - C#
 
-## Clooaboration
+## Collaboration
 - GitHub
 - Git
-
